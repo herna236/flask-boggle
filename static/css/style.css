@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(164, 164, 224);
+    color: white;
+}
+
+
+input[type=text] {
+    background-color: #3CBC8D;
+    color: white;
+  }
+.board{
+    font-size: 50px
+}
+
+.msg.err{
+    color: red;
+    font-size: 20px;
+
+}
+
+.msg.ok{
+    color: green;
+    font-size: 20px;
+}
+
+.score-info{
+    font-size: 20px;
+    color:rgb(8, 59, 59);
+}
